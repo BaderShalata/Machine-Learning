@@ -13,3 +13,10 @@ Origin of data comes from Maven Analytics Challenge where it asked participants 
 • Diagnose on-time performance and contributing factors
 
 Performed EDA on the data, found hidden insights and correlations between data, later on I developed a Logistic Regression model that can predict likelihood of passenger to request a refund
+
+
+• Snippet of results:
+
+![image](https://github.com/user-attachments/assets/93f26206-5b06-41fc-bbf0-0058aa0febb4)
+![image](https://github.com/user-attachments/assets/51938b1d-b818-4a63-aafd-39052f1686eb)
+![image](https://github.com/user-attachments/assets/a0ad0b53-d777-4cf4-a43f-01a348209538)
