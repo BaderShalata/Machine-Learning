@@ -17,6 +17,8 @@ Performed EDA on the data, found hidden insights and correlations between data, 
 
 • Snippet of results:
 
-![image](https://github.com/user-attachments/assets/93f26206-5b06-41fc-bbf0-0058aa0febb4)
-![image](https://github.com/user-attachments/assets/51938b1d-b818-4a63-aafd-39052f1686eb)
-![image](https://github.com/user-attachments/assets/a0ad0b53-d777-4cf4-a43f-01a348209538)
+<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/93f26206-5b06-41fc-bbf0-0058aa0febb4" alt="Image 1" style="height: 150px; object-fit: contain;" />
+  <img src="https://github.com/user-attachments/assets/51938b1d-b818-4a63-aafd-39052f1686eb" alt="Image 2" style="height: 150px; object-fit: contain;" />
+  <img src="https://github.com/user-attachments/assets/a0ad0b53-d777-4cf4-a43f-01a348209538" alt="Image 3" style="height: 150px; object-fit: contain;" />
+</div>
