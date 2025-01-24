@@ -1,0 +1,9 @@
+Payment.Method,Railcard,Ticket.Class,Ticket.Type,Price,Departure.Station,Arrival.Station,Departure,Scheduled.Arrival,Actual.Arrival,Journey.Status,Reason.for.Delay,Payment.Method.Encoded,Ticket.Class.Encoded,Ticket.Type.Encoded,Railcard.Encoded,Journey.Status.Encoded,Reason.for.Delay.Encoded,Predicted.Refund.Request
+Debit Card,,First Class,Advance,54,London St Pancras,Birmingham New Street,2024-01-04 17:45,2024-01-04 19:05,2024-01-04 19:05,On Time,,2,0,0,1,2,3,Yes
+Credit Card,,Standard,Advance,7,London Euston,Birmingham New Street,2024-01-05 08:15,2024-01-05 09:35,2024-01-05 09:35,On Time,,1,1,0,1,2,3,Yes
+Debit Card,,Standard,Off-Peak,113,Liverpool Lime Street,London Euston,2024-01-09 15:30,2024-01-09 17:45,2024-01-09 18:07,Delayed,Staffing,2,1,1,1,1,1,Yes
+Contactless,Adult,Standard,Off-Peak,3,Liverpool Lime Street,Manchester Piccadilly,2024-01-31 05:45,2024-01-31 06:15,2024-01-31 06:49,Delayed,Signal Failure,0,1,1,0,1,0,Yes
+Credit Card,,Standard,Off-Peak,4,Manchester Piccadilly,Liverpool Lime Street,2024-02-10 16:00,2024-02-10 16:30,,Cancelled,Technical Issue,1,1,1,1,0,2,Yes
+Contactless,,Standard,Advance,3,Manchester Piccadilly,Liverpool Lime Street,2024-02-25 15:45,2024-02-25 16:15,,Cancelled,Staffing,0,1,0,1,0,1,Yes
+Debit Card,,Standard,Off-Peak,126,Manchester Piccadilly,London Euston,2024-03-20 15:30,2024-03-20 17:20,2024-03-20 17:36,Delayed,Staffing,2,1,1,1,1,1,Yes
+Credit Card,,Standard,Advance,22,Birmingham New Street,London St Pancras,2024-04-16 04:30,2024-04-16 05:50,,Cancelled,Signal Failure,1,1,0,1,0,0,Yes
