@@ -1,0 +1,10 @@
+## MavenRail Dataset
+This dataset consists of 31645 records of mock rail journeys by passengers via National Rail in the England, Scotland and Wales during the period 01.Jan.2024 – 30.Apr.2024.
+The data includes mock train ticket sales that contain details about passenger details, payment methods, ticket types, journey times, destinations, delays and refund requests.
+
+Origin of data comes from Maven Analytics Challenge where it asked participants of the competition to create an exploratory dashboard to:
+• Identify the most popular routes
+• Determine peak travel times
+• Analyze revenue from different ticket types & classes
+• Diagnose on-time performance and contributing factors
+Performed EDA on the data, found hidden insights and correlations between data, later on I developed a Logistic Regression model that can predict likelihood of passenger to request a refund
